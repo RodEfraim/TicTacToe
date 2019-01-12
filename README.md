@@ -4,8 +4,6 @@ Two-player game of Tic-Tac-Toe. Player 'X' and player 'O' in which player 'X' al
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
 ### Prerequisites
 
 Install the latest version of java.
@@ -28,9 +26,6 @@ java ticTacToe
 
 Explain what these tests test and why
 
-```
-Give an example
-```
 <img width="336" alt="screen shot 2019-01-12 at 1 47 09 pm" src="https://user-images.githubusercontent.com/32502126/51078848-aad8e480-1670-11e9-8c0c-d76c5e7b44e5.png">
 
 ## Authors
