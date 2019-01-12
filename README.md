@@ -10,10 +10,6 @@ These instructions will get you a copy of the project up and running on your loc
 
 Install the latest version of java.
 
-```
-Give examples
-```
-
 ### Installing
 
 A step by step series of examples that tell you how to get a development env running
