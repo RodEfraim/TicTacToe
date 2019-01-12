@@ -13,7 +13,7 @@ Install the latest version of java.
 Compile the java program
 
 ```
-javac ticTacToe
+javac ticTacToe.java
 ```
 
 Run java program.
@@ -24,7 +24,7 @@ java ticTacToe
 
 ### Example Run
 
-Explain what these tests test and why
+Example run demonstration of player 'X' winning.
 
 <img width="336" alt="screen shot 2019-01-12 at 1 47 09 pm" src="https://user-images.githubusercontent.com/32502126/51078848-aad8e480-1670-11e9-8c0c-d76c5e7b44e5.png">
 
