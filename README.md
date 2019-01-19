@@ -30,7 +30,7 @@ Example run demonstration of player 'X' winning.
 
 ## Authors
 
-* **Rodrigo Efraim** - *Initial work* - [RodEfraim](https://github.com/RodEfraim)
+* **Rodrigo Efraim** - *Work* - [RodEfraim](https://github.com/RodEfraim)
 
 ## Acknowledgments
 
