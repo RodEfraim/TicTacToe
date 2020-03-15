@@ -8,7 +8,7 @@ Two-player game of Tic-Tac-Toe. Player 'X' and player 'O' in which player 'X' al
 
 Install the latest version of java.
 
-## Running the tests
+## Running the Game
 
 Compile the java program
 
